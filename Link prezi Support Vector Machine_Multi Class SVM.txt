@@ -1,0 +1,7 @@
+Dibawah ini merupakan link presntasi untuk Bab Support Vector Machine - Multi Class SVM
+
+https://prezi.com/view/tjzdv1e49cAg2XKXRc8M/
+
+Selain itu, terdapat contoh implementasi Multi Class SVM karya Citrawati Isra Salekhah dengan format pdf
+
+Terimakasih..SEMANGAT :)
